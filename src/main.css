@@ -1,0 +1,19 @@
+:root {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  --blue-0: #e9ecfd;
+  --blue-1: #d2d6e8;
+  --blue-2: #a6afd1;
+  --blue-3: #7b89ba;
+  --blue-4: #4d65a3;
+  --blue-5: #0c448c;
+  --blue-6: #14376f;
+  --blue-7: #162a52;
+  --blue-8: #141e38;
+  --blue-9: #0f131f;
+}
+
+body {
+  background-color: var(--blue-0);
+}
